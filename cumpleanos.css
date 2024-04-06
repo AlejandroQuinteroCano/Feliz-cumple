@@ -16,7 +16,9 @@ body{
 }
 
 .cumpleaños{
-    width:70%;
+width:600px;
+    height:400px; 
+    
     background-attachment: fixed;
     background-size: cover;
     color:#FFFFFF;

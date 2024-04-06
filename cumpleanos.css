@@ -1,7 +1,6 @@
 
 /* Plantilla Css Inicio*/
 body{
-    width: 600px;
     background-image: url(imgCumpleaños/bn.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -46,6 +45,6 @@ h3{
     
  @media screen and (max-width:480px){
         .cumpleaños{
-            width: auto;
+            width:600px;
         }
     }

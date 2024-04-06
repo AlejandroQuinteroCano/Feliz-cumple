@@ -16,9 +16,7 @@ body{
 }
 
 .cumpleaños{
-width:600px;
-    height:400px; 
-    
+    width:70%;
     background-attachment: fixed;
     background-size: cover;
     color:#FFFFFF;
@@ -44,3 +42,10 @@ h3{
     margin:20px;
 }.p-footer{
     color:#000000;}
+
+    
+ @media screen and (max-width:480px){
+        .cumpleaños{
+            width: auto;
+        }
+    }

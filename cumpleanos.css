@@ -8,8 +8,37 @@ body{
     color:#FFFFFF;
     text-align: center;
     
-}
-.strong{
-    background-color: blue;
+}.button{
+    width: 15%;
+    padding: auto;
+    font-size: 30px;
+
 }
 
+.cumpleaños{
+    width:70%;
+    background-attachment: fixed;
+    background-size: cover;
+    color:#FFFFFF;
+    text-align: center;
+    padding: 0 auto;
+
+}
+.link{
+    font-style: bold;
+    font-size: 50px;
+    font: italic;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+ font-size: 80px;
+
+}
+.copyright{
+    color:#000000;
+    font-size: 13px;
+    margin:20px;
+}.p-footer{
+    color:#000000;}

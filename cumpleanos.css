@@ -1,6 +1,7 @@
 
 /* Plantilla Css Inicio*/
 body{
+    width: 600px;
     background-image: url(imgCumpleaños/bn.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;

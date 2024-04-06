@@ -1,0 +1,10 @@
+
+/* Plantilla Css Inicio*/
+body{
+    background-image: url(imgCumpleaños/bn.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:#FFFFFF;
+}
+

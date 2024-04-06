@@ -8,7 +8,11 @@ body{
     color:#FFFFFF;
     text-align: center;
     
-}.button{
+}
+img{
+    width 50%;
+}
+.button{
     width: 15%;
     padding: auto;
     font-size: 30px;
@@ -44,7 +48,8 @@ h3{
 
     
  @media screen and (max-width:480px){
-        .cumpleaños{
-            width:600px;
+        .img{
+            width:100%;
+        }
         }
     }

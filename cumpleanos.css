@@ -2,7 +2,7 @@
 /* Plantilla Css Inicio*/
 body{
     
-    background-image: url(imgCumpleaños/bn.jpg);
+    background-image: url(imgCumpleaños/abrilCumpleanos.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -71,9 +71,6 @@ h3{
     --gris-claro: #ECECEC;
     box-sizing: border-box;
 }
-
-
-
 /* Cabecera */
 
 .cabecera__container {
@@ -84,7 +81,7 @@ h3{
 }
 
 .logo__item {
-    background-image: url(imgCumpleaños/feliztorta.png);
+    background-image: url(imgCumpleaños/abrilIconopeq.jpg);
     background-repeat: no-repeat;
     padding: 15px 65px;
     background-size: 30%;
